@@ -1,4 +1,4 @@
-# Passion_Project_Sabudh
+# College Project
 1. Understand Project Objectives:
    - Automate Resume Parsing and Skill Analysis: You need to break down resumes into structured data (e.g., skills, experience).
    - Identify Skill Gaps: Compare resumes to job descriptions and highlight missing skills.
